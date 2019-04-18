@@ -11,6 +11,10 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
+    /**
+     * This works by getting the menu item's id and finding the corresponding id in the mobile_navigation file
+     * that's how it knows it's destination
+     */
     private lateinit var navController: NavController
 
     override fun onCreate(savedInstanceState: Bundle?) {
