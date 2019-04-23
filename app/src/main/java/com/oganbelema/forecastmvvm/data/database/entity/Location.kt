@@ -1,4 +1,4 @@
-package com.oganbelema.forecastmvvm.data.response
+package com.oganbelema.forecastmvvm.data.database.entity
 
 import com.google.gson.annotations.SerializedName
 

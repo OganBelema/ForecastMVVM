@@ -1,4 +1,4 @@
-package com.oganbelema.forecastmvvm.data.response
+package com.oganbelema.forecastmvvm.data.database.entity
 
 data class Condition(
     val code: Int,
